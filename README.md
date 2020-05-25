@@ -2,7 +2,7 @@
 Este curso está orientado a principiantes en programación Python 3.
 ## Listado de temas
 ### Instalación de Python 3
-1. Problema: Se requiere tener Python 3 instalado para programar localmente.
+1. Problema: ¿Cómo comienzo a programar en Python desde mi computadora?
 2. Herramientas: Página web de Python, instalador de Python.
 3. Solución: Descargar e instalar Python, validar que herramientas complementarias funcionan adecuadamente.
 4. Tarea: Instalar Python en el equipo personal.
